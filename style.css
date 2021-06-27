@@ -1,0 +1,21 @@
+body{
+    background-color: wheat;
+    margin: 0;
+}
+
+h1{
+    color:black;
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.para{
+    display: flex;
+    justify-content: center;
+    
+}
